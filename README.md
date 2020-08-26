@@ -14,7 +14,7 @@ I used a Kaggle dataset posted by Ruchi Bhatia.
 
 *https://www.kaggle.com/ruchi798/movies-on-netflix-prime-video-hulu-and-disney*
 
-I also would to thank ZhongTr0n for his tutorial on how to create a map from categorical data with Python.
+I also would like to thank ZhongTr0n for his tutorial on how to create a map from categorical data with Python.
 
 *https://towardsdatascience.com/create-categorical-choropleth-with-python-122da5ae6764*
 
