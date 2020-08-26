@@ -33,7 +33,7 @@ Throughout the analysis, I was able to pull out several interesting insights:
 - *Netflix movies are longer on average*
 - *Disney+ stands out with a completely different movie landscape aimed towards families*
 - *Drama is the most produced genre across most countries and over time*
-- *Biography is the most well-rated genre on average*
+- *News, Documentary and Biography are the most well-rated genres on average*
 - *The top 3 of most well-rated directors are: Rocco Urbisci (he directed George Carlin's - a famous US comedian - comedy shows), Hrishikesh Mukherjee (he is one of the most famous Indian directors) and Martin Scorsese (you probably know him)*
 
 Exploratory Data Analysis (EDA)
