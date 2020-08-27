@@ -80,5 +80,5 @@ For more details, feel free to go through [the code](https://github.com/SalimAma
 Next steps / Improvements
 -------
 
-- Try to predict movie ratings based on available variables
+- Try to predict movie ratings based on relevant features
 - Figure out which country has the most well-rated movie productions
