@@ -60,7 +60,7 @@ Here are the variables available in the dataset:
 | Title           | Title of the movie                        |               |
 | Year            | Year when the movie was produced          |               |
 | Age             | Target age group                          |               |
-| IMDb            | IMDb rating                               |               |
+| IMDb            | IMDb rating (between 0 and 10)            |               |
 | Rotten Tomatoes | Rotten Tomatoes %                         |               |
 | Netflix         | Whether the movie is found on Netflix     | 1: Yes, 0: No |
 | Hulu            | Whether the movie is found on Hulu        | 1: Yes, 0: No |
@@ -80,5 +80,5 @@ For more details, feel free to go through [the code](https://github.com/SalimAma
 Next steps / Improvements
 -------
 
-- Try to predict movie ratings based on relevant features
+- Try to predict movie ratings based on relevant features (I tried it out of curiosity in the code and got a RMSE of 1.08 which is ok for a first try)
 - Figure out which country has the most well-rated movie productions
