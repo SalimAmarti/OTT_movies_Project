@@ -82,3 +82,8 @@ Next steps / Improvements
 
 - Try to predict movie ratings based on relevant features (I tried it out of curiosity in the code and got a RMSE of 1.08 which is ok for a first try)
 - Figure out which country has the most well-rated movie productions
+
+
+Infographics
+-------
+![Infographics](https://github.com/SalimAmarti/OTT_movies_Project/blob/master/OTT_movies_infographics.png)
